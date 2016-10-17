@@ -64,11 +64,3 @@ Customer Focused, Grow revenues, complete customer management solution, no hardw
 
 # A view of available of CRM products from IT industry
 Salesforce, Fresh desk, Zoho, SugarCRM, Pipe drive, Net suite, SAP CRM, Dynamics CRM by Microsoft, Oracle CX etc.
-
-# Salesforce:
-The company was founded in 1999 by former Oracle executive Marc Benioff, Parker Harris, Dave Moellenhoff, and Frank Dominguez as a company specializing in software as a service (SaaS). Harris, Moellenhoff and Dominguez, three software developers previously at consulting firm Left Coast Software, were introduced to Benioff through friend and former Oracle colleague Bobby Yazdani. Harris and team wrote the initial sales automation software.
-
-When Marc Benioff left Oracle to found Salesforce he did so not only with Larry Ellison's blessing, not only with Larry Ellison's financial backing, not only with Larry Ellison's idea, but also with Larry's/Oracle's playbook. He'd been a VP at Oracle and learned how the Enterprise software game was played from Larry (and Tom Siebel, in whose eponymous company they'd both invested) and did a spectacular job of adjusting that playbook to web/SaaS. And then Marc and the team did an even more tremendous job of executing those plays. Another Quoran described that as an "an exceptional sales and marketing machine" which is certainly true but doesn't explain how it was built.
-
-
-
